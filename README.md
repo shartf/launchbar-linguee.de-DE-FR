@@ -1,0 +1,1 @@
+# launchbar-linguee.de-DE-FR
