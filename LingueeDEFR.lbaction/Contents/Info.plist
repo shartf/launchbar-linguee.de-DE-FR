@@ -5,7 +5,7 @@
 	<key>CFBundleIconFile</key>
 	<string>icon.png</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.sergejhartfil.ofadd.LaunchBar.action.NewAction</string>
+	<string>com.sergejhartfil.ofadd.LaunchBar.action.LingueeDEFR</string>
 	<key>CFBundleName</key>
 	<string>Search Linguee DE-FR</string>
 	<key>LBDescription</key>
